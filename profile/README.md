@@ -4,5 +4,4 @@ https://www.vtaav.org/
 #Team Documentation
 http://docs.vtaav.org/
 
-#Tasks
-coming soon
+#Tasks: https://github.com/orgs/AAV-VirginiaTech/projects/1
